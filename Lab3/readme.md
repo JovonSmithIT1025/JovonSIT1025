@@ -1,0 +1,8 @@
+# Software
+Application software is used for word processing, calculations, spreadsheets and just surfing the internet using your favorite web browser. Utility software allows you to modify your computer using anti-malware software and more programs that remove your current software that you want deleted or no longer installed. Operating systems software manages all of the programs in the computer. It also provides a platform for software developers to write applications.
+ERP edits and saves users of the website's infomation from the same data source. An example of this is like, there's only one customer table in the database. ERP edits and saves users of the website's infomation from the same data source. An example of this is like, there's only one customer table in the database. ERP edits and saves users of the website's infomation from the same data source. An example of this is like, there's only one customer table in the database. ERP edits and saves users of the website's infomation from the same data source. An example of this is like, there's only one customer table in the database and there's only one sales table in the database
+The purpose of vitalization was to rely on software to stimulate hardware functionality and create a virtual computer system. Due to limitations of the x86 servers, many I.T organizations must deploy multiple servers. The result of this were excessive operating cost and the huge inefficienes
+# Python
+Pseudocode is a way of expressing an algorithm without conforming to specific syntax rules.
+In a compiled language, the target machine directly translates the program. In an interpreted language, the source code is not directly translated by the target machine.
+# Career Exploration 
