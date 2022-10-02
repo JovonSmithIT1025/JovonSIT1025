@@ -6,3 +6,12 @@ The purpose of vitalization was to rely on software to stimulate hardware functi
 Pseudocode is a way of expressing an algorithm without conforming to specific syntax rules.
 In a compiled language, the target machine directly translates the program. In an interpreted language, the source code is not directly translated by the target machine.
 # Career Exploration 
+Computer programmers make start programmers make eighty-thousand dollars or more every year
+# Certifications
+There is an entry, associates, professional, and expert cisco certifications, they also have additional training programs.
+# Certificates
+I'd be more so interested in cybersecurity.
+Co-Ops/Interested
+Schedule an appointment with a Career Coach through Handshake to get prepared, including having a finalized resume and discussing interview strategies. After working with a Career Coach, upload your approved final resume to Handshake Work with the Career Placement team to identify employers that may be a good fit for you, and submit applications to employers of interest.  Get hired for a Co-Op and share your Co-Op information with the Career Center to begin the registration process. Complete and sign a "Cooperative Education Agreement" form.
+# Industry Associations / Student Organizations
+Cybersecurity club
