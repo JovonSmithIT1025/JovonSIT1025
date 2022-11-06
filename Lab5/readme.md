@@ -1,5 +1,10 @@
 # LucidChart
+Learning about lucidchart was a little confusing at first. However, after watching the video a few times it became more clearer. I can now see how lucid charts can be helful in the future. The video was short and got straight to the point. I am not able to understand the formatting of how lucid charts are displayed.
 # Intro to Networking
+# Network Design 
+I think wireless printers are more convenient. Using a wireless printer you can print from multiple devices and from different places.  It's a more modern way of the way technology is used today. Wireless printers can even be assessed through your smart phone. I chose this design because i was intrigued by how printers have evolved. Many people are not aware how using a wireless printer can be used to share information on the go.
+# NSA/CSS
+The NSA is responsible for preventing and erdicating any and all threats to the U.S National security system. They're job is to focus on the defense industrial base.
 # Data Transmission
 Packet Switching - Technology that allows packets of data to be routed based on the destination system.
 IP Address - Unique identifying number
