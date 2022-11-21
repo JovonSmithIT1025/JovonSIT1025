@@ -7,7 +7,7 @@
    The TCP/IP's responsibility is to give each computer or device a unique IP address. 
     The “Client” in a TCP/IP connection is the computer or device that “dials the phone” and the “Server” is the computer that is “listening” for calls to come in. In other words, the Client needs to know the IP Address of whatever Server it wants to connect to and it also needs to know the port number that it wants to send and receive data through after a connection has been established. The Server only has to listen for connections and either accept them or reject them when they are initiated by a client.
     It is possible to write a single protocol that takes data from one computer application and sends it to an application on another computer.- A Single stack Protocol. The problem with this approach is that it very inflexible, as any changes require changing the entire application and protocol software. The approach used in networking is to create layered protocol stacks. Each level of the stack performs a particular function and communicates with the levels above and below it.
-    # Internet Security 
+ # Internet Security 
     HTTP is a protocol used for viewing web pages on the internet. The client request to the server, they both have a mutual connectiona and the server sends back a response.
     HTTPS is stands for secure hypertex transfer protocol. HTTP encrypts the data that's being retrieved by HTTP. It insures that all data being transferred over the internet between computers and servers is secure by making the data impossible to read. 
     # Securing your Internet Browser
