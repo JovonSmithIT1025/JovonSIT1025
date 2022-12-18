@@ -1,6 +1,4 @@
-Jovon Smith
-4373 Ingleside Rd
-Warrensville Heights, OH 44128
+Jovon Smith, 4373 Ingleside Rd Warrensville Heights, OH 44128
 216-255-1165
 jovonsmith444@gmail.com
 Pursuing Computer Science, committed to academic excellence. Prompted and Prepared to implement diverse skill sets, 
